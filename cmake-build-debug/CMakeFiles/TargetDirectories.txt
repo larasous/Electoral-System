@@ -1,0 +1,3 @@
+C:/Users/raina/CLionProjects/Trabalho Finalizado/cmake-build-debug/CMakeFiles/Trabalho_Finalizado.dir
+C:/Users/raina/CLionProjects/Trabalho Finalizado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/raina/CLionProjects/Trabalho Finalizado/cmake-build-debug/CMakeFiles/rebuild_cache.dir

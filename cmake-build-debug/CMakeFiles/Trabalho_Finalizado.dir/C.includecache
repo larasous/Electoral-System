@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/candidato.c
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/eleicao.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/eleitor.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/estado.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+estado.c
+C:/Users/raina/CLionProjects/Trabalho Finalizado/estado.c
+municipio.c
+C:/Users/raina/CLionProjects/Trabalho Finalizado/municipio.c
+candidato.c
+C:/Users/raina/CLionProjects/Trabalho Finalizado/candidato.c
+partido.c
+C:/Users/raina/CLionProjects/Trabalho Finalizado/partido.c
+zona.c
+C:/Users/raina/CLionProjects/Trabalho Finalizado/zona.c
+eleitor.c
+C:/Users/raina/CLionProjects/Trabalho Finalizado/eleitor.c
+secao.c
+C:/Users/raina/CLionProjects/Trabalho Finalizado/secao.c
+eleicao.c
+C:/Users/raina/CLionProjects/Trabalho Finalizado/eleicao.c
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/municipio.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/partido.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/secao.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/raina/CLionProjects/Trabalho Finalizado/zona.c
+stdio.h
+-
+stdlib.h
+-
+
