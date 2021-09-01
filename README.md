@@ -1,7 +1,12 @@
 # Sistema-Eleitoral
+Projeto desenvolvido com o intuito de realizar uma votação local, usando arquivos em C.
 
-## Projeto desenvolvido com o intuito de realizar uma votação local, usando arquivos em C. 
+## Membros:
+- 👩[ Raina Rodrigues](https://github.com/rainarodrigues)
+- 👩[ Lara Amanny](https://github.com/larasous)
+
 ## Existem duas divisões dentro do código:
+
 ### Cadastro Eleitoral - main.c :
 Visa realizar o cadastro dos dados necessários para uma votação, nele temos por exemplo:
 - Cadastro de Estado;
